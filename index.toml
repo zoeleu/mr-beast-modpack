@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -118,16 +122,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "3e2ed46e1811a2452f21cb75dfe5952b32e13e5845ac707e6ff199a14b58a6be"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-cogwheels-fabric.pw.toml"
-hash = "04001f694d9fed662d68d4b817fd601bd78442246e2113bfa5fc8d304460a815"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-flywheels-fabric.pw.toml"
-hash = "141d942a606926d210d0c4c9d32e26593a4407f7e8db0a744a6a28a2d20d6f18"
 metafile = true
 
 [[files]]
