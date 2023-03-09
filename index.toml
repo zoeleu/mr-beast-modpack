@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
+hash = "a03980eab7cd90e895bac346395431e4f7f1079f37b6b081a0789183600e86ab"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "881b98b88ed5bd166490dad31e1f48f132e755ea0f8aacb61e67003dd6e551bc"
+hash = "1dfbe2c85dfbc214cc7982893afa96850bcddf43b537b24f7067a05227abc092"
 metafile = true
 
 [[files]]
