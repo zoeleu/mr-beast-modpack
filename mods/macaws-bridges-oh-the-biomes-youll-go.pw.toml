@@ -1,0 +1,13 @@
+name = "Macaw's Bridges - Oh The Biomes You'll Go"
+filename = "macawsbridgesbyg-fabric-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/BniJ8xBo/macawsbridgesbyg-fabric-1.19.2-1.0.jar"
+hash-format = "sha1"
+hash = "2ac10a8657af558d26398cf0af9215c8eddf4c8e"
+
+[update]
+[update.modrinth]
+mod-id = "s4B19O5h"
+version = "BniJ8xBo"

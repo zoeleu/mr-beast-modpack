@@ -1,0 +1,13 @@
+name = "Mr beast"
+author = "Mr beeeeeaaaaaaassssssst"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23c29ed46f3ec7f4b839505d775a67f59757c3e2f395a4880b1cce082f663412"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.4-pre.3"
