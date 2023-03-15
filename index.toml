@@ -460,6 +460,11 @@ hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "bf598897485960b5ef8922cded148b0cc2ad8cb29a48599a7382b4967614c2f8"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1a3eab9fd9cdc70f36dd1dff01a48a6cb5113cf3482861646db3262bba99e27d"
 metafile = true
