@@ -1,13 +1,13 @@
 name = "Vivecraft"
-filename = "vivecraft-1.19.2-0.0.14-fabric.jar"
+filename = "vivecraft-1.19.2-0.0.15-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ffecf19511a6f027f7f66b776ccf6dbafa3823c5"
+hash = "b48f5552cfe31eeab1e30cc9e89d9e7200be485a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4409428
+file-id = 4462665
 project-id = 667903
